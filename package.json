@@ -1,0 +1,22 @@
+{
+  "name": "lavendelhonig",
+  "version": "0.0.0",
+  "description": "Lavender Honey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dd-center/Lavendelhonig.git"
+  },
+  "keywords": [
+    "bilibili"
+  ],
+  "author": "simon3000 <simon3000@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dd-center/Lavendelhonig/issues"
+  },
+  "homepage": "https://github.com/dd-center/Lavendelhonig#readme"
+}
