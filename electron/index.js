@@ -29,7 +29,7 @@ const createWindow = async () => {
     win.show()
     win.loadURL('http://0.0.0.0:32971')
   } else {
-    await win.loadFile('dist/index.html')
+    await win.loadFile('out/index.html')
     win.show()
   }
 }
