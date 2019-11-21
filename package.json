@@ -40,7 +40,7 @@
     "concurrently": "^5.0.0",
     "core-js": "^3.3.2",
     "electron": "^7.0.0",
-    "electron-builder": "^21.2.0",
+    "electron-builder": "^22.1.0",
     "electron-notarize": "^0.1.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
