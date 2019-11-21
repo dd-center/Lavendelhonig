@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/dd-center/Lavendelhonig#readme",
   "dependencies": {
+    "electron-updater": "^4.2.0",
     "level": "^6.0.0",
     "subleveldown": "^4.1.4"
   },
